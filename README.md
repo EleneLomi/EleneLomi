@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Elene and I am currently a DPhil student at the University of Oxford, working at the intersection of Machine Learning and Bioinformatics. I also hold an MSc in Mathematical Modelling and Scientific Computing from Oxford and BSc in Theoretical Physics from UCL :)
 <!--
 **EleneLomi/EleneLomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
