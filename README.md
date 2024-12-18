@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Elene and I am a DPhil student at the University of Oxford, working at the intersection of Machine Learning and Bioinformatics. I also hold an MSc in Mathematical Modelling and Scientific Computing from Oxford and a BSc in Theoretical Physics from UCL.
+My name is Elene and I am a DPhil student at the University of Oxford, working at the intersection of Machine Learning and Biophysics. I also hold an MSc in Mathematical Modelling and Scientific Computing from Oxford and a BSc in Theoretical Physics from UCL.
 
 - 🔭 Currently, I am working on using machine learning to better understand cell fate decisions.
 
